@@ -1,0 +1,21 @@
+// Lemon and Gates Question 
+
+function initialLemons(gates, lemon){
+    result = lemons 
+    return result - gates;
+}
+
+
+// chess ♟️ question 
+
+I was not able to solve this one.
+
+
+
+// 8 balls question 
+
+function defectedBall(ballCount) {
+ballCount = ballCount / 2;
+ballCount = ballCount - 1;
+return ballCount;
+}
